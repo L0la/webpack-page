@@ -8,7 +8,7 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist"
     },
-    "homepage": "https://github.com/L0la/webpack-page.git",
+    "homepage": "https://l0la.github.io/webpack-page.git",
     "keywords": [],
     "author": "",
     "license": "ISC",
