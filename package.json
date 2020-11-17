@@ -25,12 +25,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/L0la/webpack-project.git"
+        "url": "https://l0la.github.io/webpack-project.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/L0la/webpack-project/issues"
+        "url": "https://l0la.github.io/webpack-project/issues"
     },
-    "homepage": "https://github.com/L0la/webpack-project#readme"
+    "homepage": "https://l0la.github.io/webpack-project"
 }
