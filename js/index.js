@@ -1,12 +1,3 @@
-/* import dataStr from "./date.js";
-import "../styles/styles.css";
-document
-    .querySelector('.js-content')
-    .innerHTML = `It's ${ dataStr() }`;
-
-
- */
-
 import "../index.html";
 import dataStr from "./date.js";
 import $ from "jquery";
