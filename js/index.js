@@ -1,13 +1,13 @@
-import "../index.html";
-import dataStr from "./date.js";
+import dateStr from "./date.js";
 import $ from "jquery";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "../styles/styles.css";
 import "bootstrap";
-$(document).ready(() => {
+import './styles/styles.css';
+import '../index.html';
 
-    //print the current time
-    $(".js-content").html(`It's ${dataStr()}`);
+$(document).ready(() => {
+    $(".js-content").html(`It's ${dateStr()}`);
+
     $('.js-modal').modal({
         show: true,
         keyboard: true
